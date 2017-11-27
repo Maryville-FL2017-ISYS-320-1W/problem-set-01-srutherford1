@@ -1,16 +1,19 @@
 /*
   	ISYS 320
-  	Name(s):
-  	Date: 
+  	Name(s): Samantha Rutherford
+  	Date: 11/26/2017
 */
 
 /*
 
 1. Fill out the table for the loop below
 
-| ITERATION 		 | VARIABLE NAME	 | VARIABLE NAME	 | VARIABLE NAME	 |
-| initialization	 |				 |				 |				 | 
-| 1				 |				 |				 |				 |
+| ITERATION 			 | MAX	 | count	 | product	     | number
+| initialization	 | 4		 |			   |			         | 0
+| 1				 				 | 4		 |4			   |4 * 2 - 1	= 7	 | 0 + 7 = 7
+| 2								 | 4		 |3				 |3 * 2 - 1 = 5  | 7 + 5 = 12
+| 3                | 4     |2        |2 * 2 - 1 = 3  | 12 + 3 = 15
+| 4                | 4     |1        |1 * 2 - 1 = 1  | 15 + 1 = 16
 
 
 */
